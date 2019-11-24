@@ -1,2 +1,2 @@
 # Projeto Unes Universidade
-Site fictício para uma universidade chamada Unes
+Este se trata de um projeto de estudos com práticas não recomendadas de desenvolvimento web hoje em dia.
